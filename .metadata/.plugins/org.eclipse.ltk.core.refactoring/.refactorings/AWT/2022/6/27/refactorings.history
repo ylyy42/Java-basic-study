@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TextFieldTest.java&apos; to &apos;P220627/src/awt.db&apos;&#x0D;&#x0A;- Original project: &apos;AWT&apos;&#x0D;&#x0A;- Destination element: &apos;P220627/src/awt.db&apos;&#x0D;&#x0A;- Original element: &apos;textfieldtest.TextFieldTest.java&apos;" description="Copy compilation unit" destination="=P220627/src&lt;awt.db" element1="/src&lt;textfieldtest{TextFieldTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656312215031" units="1" version="1.0"/>
+</session>

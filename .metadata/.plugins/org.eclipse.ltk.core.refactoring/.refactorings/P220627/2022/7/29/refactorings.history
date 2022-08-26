@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;awt.db.TextFieldTest&apos; to &apos;Login&apos;&#x0D;&#x0A;- Original project: &apos;P220627&apos;&#x0D;&#x0A;- Original element: &apos;awt.db.TextFieldTest&apos;&#x0D;&#x0A;- Renamed element: &apos;awt.db.Login&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TextFieldTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;awt.db{TextFieldTest.java[TextFieldTest" matchStrategy="1" name="Login" qualified="false" references="true" similarDeclarations="false" stamp="1657586890061" textual="false" version="1.0"/>
+</session>

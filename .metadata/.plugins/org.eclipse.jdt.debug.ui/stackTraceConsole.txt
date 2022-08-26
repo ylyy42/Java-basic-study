@@ -1,0 +1,8 @@
+SutdaCard(int num, boolean isKwang) {
+		this.num = num;
+		this.isKwang = isKwang;
+	}
+
+	String info() { // . ( ) K . 숫자를 문자열로 반환한다 광 인 경우 를 덧붙인다 光
+		return num + (isKwang ? "K" : "");
+	}

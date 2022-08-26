@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function get() {
+         var val = document.getElementById('ex').innerHTML;
+         alert(val);
+        }
+ 
+        function set(v) {
+         document.getElementById('ex').innerHTML = v;
+        }
+      </script>
+</head>
+<body>
+    <div id="ex">DIV declaration</div>
+    <a href="#" onclick="get()">Print the DIV attribute</a><br>
+    <a href="#" onclick="set('changed')">Change the DIV attribute</a>
+</body>
+</html>

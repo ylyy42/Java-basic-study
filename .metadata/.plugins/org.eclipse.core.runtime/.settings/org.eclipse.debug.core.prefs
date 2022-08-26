@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n    <expression enabled\="true" text\="s1.getKor()"/>\r\n    <expression enabled\="true" text\="s2.getKor()"/>\r\n    <expression enabled\="true" text\="korAvg"/>\r\n</watchExpressions>\r\n
